@@ -38,7 +38,7 @@ To explore the project and its findings, please refer to the notebooks and repor
 
 Thank you for your interest in my CMU MSBA Capstone Project!
 
-#### Author: [Jackie Sun]
+#### Author: Jackie Sun
 
 
 

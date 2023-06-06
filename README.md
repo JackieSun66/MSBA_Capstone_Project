@@ -1,5 +1,6 @@
 # MSBA_Capstone_Project
-CMU MSBA Capstone Project: Matching Customers with Leimberg Service's Newspaper
+CMU MSBA Capstone Project: Matching Customers with Leimberg Service's Newspaper!
+
 Welcome to my CMU MSBA Capstone Project! The aim of this project is to address the email marketing problem faced by Leimberg Service, an information services company. The company publishes newsletters and articles related to various domains such as the financial market, real estate market, agriculture, and law.
 
 ## Problem Statement
@@ -18,12 +19,15 @@ Data Analysis: Conduct an in-depth analysis of subscriber preferences, identifyi
 Summary Web Crawler: Extracting the Executive Summary of Each Newsletter.
 
 NLP Key Word Extraction Model: A. Extracting the Key Words of Each Newsletter
+                               
                                B. Extracting the Key Words of Each Industry
 
 Subscribers Clustering Model: A. Manually Tagging Subscribers First Industry and Second Industry
+                              
                               B. Using Location, First Industry, Second Industry to Clustering
 
 Cluster Matching: A. Find the Key Words of Each Cluster
+                  
                   B. Matching up Newsletters and Clusters
                   
 Performance Evaluation: Monitor and measure the impact of the approach on subscription and retention rates. Analyze feedback from subscribers to assess satisfaction levels.

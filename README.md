@@ -20,21 +20,21 @@ Summary Web Crawler: Extracting the Executive Summary of Each Newsletter.
 
 NLP Key Word Extraction Model: 
     
-                               A. Extracting the Key Words of Each Newsletter
+    A. Extracting the Key Words of Each Newsletter
                                
-                               B. Extracting the Key Words of Each Industry
+    B. Extracting the Key Words of Each Industry
 
 Subscribers Clustering Model: 
 
-                              A. Manually Tagging Subscribers First Industry and Second Industry
+    A. Manually Tagging Subscribers First Industry and Second Industry
                               
-                              B. Using Location, First Industry, Second Industry to Clustering
+    B. Using Location, First Industry, Second Industry to Clustering
 
 Cluster Matching: 
                   
-                  A. Find the Key Words of Each Cluster
+    A. Find the Key Words of Each Cluster
                   
-                  B. Matching up Newsletters and Clusters
+    B. Matching up Newsletters and Clusters
                   
 Performance Evaluation: Monitor and measure the impact of the approach on subscription and retention rates. Analyze feedback from subscribers to assess satisfaction levels.
 

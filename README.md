@@ -18,15 +18,21 @@ Data Analysis: Conduct an in-depth analysis of subscriber preferences, identifyi
 
 Summary Web Crawler: Extracting the Executive Summary of Each Newsletter.
 
-NLP Key Word Extraction Model: A. Extracting the Key Words of Each Newsletter
+NLP Key Word Extraction Model: 
+    
+                               A. Extracting the Key Words of Each Newsletter
                                
                                B. Extracting the Key Words of Each Industry
 
-Subscribers Clustering Model: A. Manually Tagging Subscribers First Industry and Second Industry
+Subscribers Clustering Model: 
+
+                              A. Manually Tagging Subscribers First Industry and Second Industry
                               
                               B. Using Location, First Industry, Second Industry to Clustering
 
-Cluster Matching: A. Find the Key Words of Each Cluster
+Cluster Matching: 
+                  
+                  A. Find the Key Words of Each Cluster
                   
                   B. Matching up Newsletters and Clusters
                   
